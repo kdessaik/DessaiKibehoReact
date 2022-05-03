@@ -1,0 +1,67 @@
+#Myname1{
+    color: black;
+    font-size: 90%;
+    
+}
+.navbar{
+margin-left: 20%;
+}
+#Myname1>img{
+    width: 3%;
+    border-radius: 30%;
+    margin-right: 1%;
+}
+#kdk{
+    text-decoration: none;
+    color: black;
+}
+.navbar{
+    padding: 2%;
+}
+#Nav-elements{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-left: 30%;
+    margin-top: -3%;
+    color: black;
+    
+}
+#Nav-elements>a{
+    margin-right: 25%;
+    text-decoration: none;
+    color: black;
+    
+}
+#Nav-elements>a:hover{
+    text-decoration: underline;
+}
+a>h4{
+    font-size: 70%;
+}
+#donate{
+    position: relative;
+    width: 100%;
+    bottom: 20%;
+}
+#donate:hover{
+    background-color: rgb(228, 242, 255);
+    border: none;
+    color: rgb(0, 0, 0);
+}
+#email1{
+    text-decoration: none;
+    color: black;
+}
+#email1:hover{
+    text-decoration: underline;
+}
+#email>img{
+width: 7%;
+margin-right: 1%;
+}
+#email{
+    position: absolute;
+    left: 70%;
+    top:30% ;
+}

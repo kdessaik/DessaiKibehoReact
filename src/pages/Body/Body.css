@@ -1,0 +1,37 @@
+main{
+    margin-top: 5%;
+    margin-left: 22%;
+    width: 30%;
+    
+}
+main>h5{
+    color: rgb(105, 105, 105);
+    margin-bottom: 10%;
+}
+main>h2{
+    line-height: 170%;
+    color: black;
+}
+main>button{
+    border-radius: 25px; 
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 5%;
+    width: 140px;
+    
+    height: 7px;
+    padding-bottom: 10%;
+    padding-top: -7%;
+
+}
+main>button:hover{
+    background-color: rgb(228, 242, 255);
+    color: black;
+}
+#imageTop > img{
+    position: relative;
+    left: 50%;
+    bottom: 450px;
+    width: 1000px;
+}

@@ -26,8 +26,8 @@ main>button{
 
 }
 main>button:hover{
-    background-color: rgb(228, 242, 255);
-    color: black;
+    background-color: rgb(166, 66, 16);
+    color: rgb(255, 255, 255);
 }
 #imageTop > img{
     position: relative;

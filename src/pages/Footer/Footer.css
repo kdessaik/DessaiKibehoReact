@@ -1,9 +1,12 @@
 footer{
     position: relative;
+    margin-top:-10% ;
     
     background-color: #000000;
     color: white;
     margin-left: 5%;
+    border-radius: 25px; 
+    padding: 2%;
     
    
     

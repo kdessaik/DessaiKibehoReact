@@ -27,31 +27,21 @@ margin-left: 20%;
     color: black;
     
 }
-#Nav-elements>a{
-    margin-right: 25%;
-    text-decoration: none;
-    color: black;
-    
-}
-#Nav-elements>a:hover{
-    text-decoration: underline;
-}
-a>h4{
-    font-size: 70%;
-}
+
 #donate{
     position: relative;
     width: 100%;
     bottom: 20%;
 }
 #donate:hover{
-    background-color: rgb(228, 242, 255);
+    background-color: rgb(255, 192, 19);
     border: none;
     color: rgb(0, 0, 0);
 }
 #email1{
     text-decoration: none;
     color: black;
+    
 }
 #email1:hover{
     text-decoration: underline;
@@ -59,9 +49,26 @@ a>h4{
 #email>img{
 width: 7%;
 margin-right: 1%;
+position: relative;
+bottom: 60px;
+left: 300px;
 }
-#email{
-    position: absolute;
-    left: 70%;
-    top:30% ;
+
+#pages{
+text-decoration: none;
+color: black;
+font-size: 90%;
+font-weight: 500;
+}
+#pages:hover{
+    text-decoration: underline;
+}
+.navbar>#pages,#email1,#email1>img{
+    
+position: relative;
+bottom: 60px;
+left: 150px;
+}
+#email1{
+    left: 300px;
 }

@@ -9,22 +9,22 @@ const Footer = () => {
                   
                 <p>I am a independent company </p>
         
-                <p className="rights"><span>©  </span><span className="copyright-year">2021</span><span> </span><span>Waves</span><span>. </span><span>All Rights Reserved.</span></p>
+                <p className="rights"><span>©  </span><span className="copyright-year">2022</span><span> </span><span>Waves</span><span>. </span><span>All Rights Reserved.</span></p>
               </div>
             </div>
             <div className="col-md-4">
               <h5>Contacts</h5>
               <dl className="contact-list">
                 <dt>Address:</dt>
-                <dd>798 South Park Avenue, Jaipur, Raj</dd>
+                <dd>Embakassi, Nairobi</dd>
               </dl>
               <dl className="contact-list">
                 <dt>email:</dt>
-                <dd><a href="mailto:#">dkstudioin@gmail.com</a></dd>
+                <dd><a href="Dessaikibeho@gmail.com">DessaiKibeho@gmail.com</a></dd>
               </dl>
               <dl className="contact-list">
                 <dt>phones:</dt>
-                <dd><a href="tel:#">https://karosearch.com</a> <span>or</span> <a href="tel:#">https://karosearch.com</a>
+                <dd><a href="+254793793843">+254793793843</a>
                 </dd>
               </dl>
             </div>
@@ -41,10 +41,10 @@ const Footer = () => {
           </div>
         </div>
         <div className="row no-gutters social-container">
-          <div className="col"><a class="social-inner" href="#"><span className="icon mdi mdi-facebook"></span><span>Facebook</span></a></div>
-          <div className="col"><a class="social-inner" href="#"><span className="icon mdi mdi-instagram"></span><span>instagram</span></a></div>
-          <div className="col"><a class="social-inner" href="#"><span className="icon mdi mdi-twitter"></span><span>twitter</span></a></div>
-          <div className="col"><a class="social-inner" href="#"><span className="icon mdi mdi-youtube-play"></span><span>google</span></a></div>
+          <div className="col"><a class="social-inner" href="https://www.facebook.com/dessai.kibeho.9"><span className="icon mdi mdi-facebook"></span><span>Facebook</span></a></div>
+          <div className="col"><a class="social-inner" href="https://www.instagram.com/dessai_kibeho/"><span className="icon mdi mdi-instagram"></span><span>Instagram</span></a></div>
+          <div className="col"><a class="social-inner" href="https://twitter.com/Dessai13"><span className="icon mdi mdi-twitter"></span><span>Twitter</span></a></div>
+          <div className="col"><a class="social-inner" href="https://github.com/kdessaik"><span className="icon mdi mdi-youtube-play"></span><span>GitHub</span></a></div>
         </div>
       </footer>
      );

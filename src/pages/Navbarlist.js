@@ -7,7 +7,7 @@ const Navbar = () => {
       <h1 id="Myname1"><img src={require('../Image/df.jpg')}/>Dessai</h1>
       <Link id='pages' to="/">Home</Link>
       <Link  id='pages' to="/about">About</Link>
-      <Link  id='pages' to="/contact">Contact</Link>
+      <Link  id='pages' to="/My-Work">My-Work</Link>
       <div id='email'>
         <img src={require('../Image/message1.jpg')}/>
       <a id='email1' href='Kdessaikibeho@gmail.com'>Kdessaikibeho@gmail.com</a>

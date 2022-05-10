@@ -18,8 +18,8 @@ function handleClick(){
         <div id="about" >
             <img src={PhotoD} alt="no-Image" />
         <p>
-            My name is Kambale Kibeho, I am a Congolese , I am interesting in software develop. I am a front-end Developer and still learning Back-end.
-            <button  onClick={handleClick}> Contact Me!</button>
+            My name is Kambale Kibeho, I am a Congolese , I am interesting in software developing. I am a front-end Developer and am  still learning Back-end like Java,Python.
+           <br/> <button  onClick={handleClick}> Contact Me!</button>
             <p id="Contacts"></p>
         </p>
         </div>

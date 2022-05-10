@@ -7,12 +7,14 @@ import NavDisplay from "./pages/NavDisplay"
 
 
 
+
 function App() {
   return (
     <>
    
       <NavDisplay/>
       <Footer/>
+      
       
       </>
       );

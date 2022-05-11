@@ -1,3 +1,7 @@
+
+
+
+
 #Myname1{
     color: black;
     font-size: 90%;
@@ -71,4 +75,107 @@ left: 150px;
 }
 #email1{
     left: 300px;
+}
+@media only screen and (max-width: 800px) and (min-width:10px){
+
+    #Myname1{
+        color: black;
+        font-size: 10%;
+        
+    }
+    .navbar{
+    margin-left: 2%;
+    }
+    #Myname1>img{
+        width: 15%;
+        border-radius: 30%;
+        margin-right: 1%;
+    }
+    #kdk{
+        text-decoration: none;
+        color: black;
+    }
+    .navbar{
+        padding: 2%;
+    }
+    #Nav-elements{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+        margin-left: 20%;
+        margin-top: -3%;
+        color: black;
+        
+    }
+    
+    #donate{
+        position: relative;
+        width: 100%;
+        bottom: 20%;
+    }
+    #donate:hover{
+        background-color: rgb(255, 192, 19);
+        border: none;
+        color: rgb(0, 0, 0);
+    }
+    #email1{
+        text-decoration: none;
+        color: black;
+        
+    }
+    #email1:hover{
+        text-decoration: underline;
+    }
+    #email>img{
+    width: 7%;
+    margin-right: 1%;
+    position: relative;
+    bottom: 60px;
+    left: 270px;
+    }
+    
+    #pages,#pages2,#pages3{
+    text-decoration: none;
+    color: black;
+    font-size: 90%;
+    font-weight: 500;
+    }
+    #pages:hover{
+        text-decoration: underline;
+    }
+    .navbar>#pages,#email1,#email1>img{
+        
+    position: relative;
+    bottom: 60px;
+    left: 45px;
+    }
+    #email1{
+        left: 47px;
+    }
+.navbar>#pages{
+        position: relative;
+        left: 20%;
+        bottom: 70px;
+        width: auto;
+    }
+.navbar{
+
+
+}
+#pages2{
+    position: relative;
+        left: -7%;
+        bottom: 70px;
+        width: auto;
+}
+#pages3{
+    position: relative;
+        left: -32%;
+        bottom: 70px;
+        width: auto;
+}
+#email{
+
+}
+
 }

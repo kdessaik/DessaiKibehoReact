@@ -11,3 +11,14 @@ footer{
    
     
 } 
+@media only screen and (max-width: 800px) and (min-width:10px){
+    footer{
+    position: relative;
+    margin-top:-10% ;
+    width: 90%;
+    background-color: #000000;
+    color: white;
+    margin-left: 2%;
+    border-radius: 25px; 
+    padding: 2%; }
+}

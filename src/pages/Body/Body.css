@@ -36,3 +36,56 @@ main>button:hover{
   
     width: 1000px;
 }
+@media only screen and (max-width: 800px) and (min-width:10px){
+    *{
+        width: 100%;
+    }
+    main{
+        margin-top: 5%;
+        margin-left: 5%;
+        width: 90%;
+        
+    }
+    main>h5{
+        position: relative;
+        top: 450px;
+        color: rgb(105, 105, 105);
+        margin-bottom: 10%;
+        
+    }
+    main>h2{
+        position: relative;
+        top: 450px;
+        line-height: 170%;
+        color: black;
+        
+    }
+    main>button{
+        position: relative;
+        top: 450px;
+        border-radius: 25px; 
+        border: none;
+        background-color: black;
+        color: white;
+        padding: 5%;
+        width: 140px;
+        
+        height: 7px;
+        padding-bottom: 10%;
+        padding-top: -7%;
+    
+    }
+    main>button:hover{
+        background-color: rgb(166, 66, 16);
+        color: rgb(255, 255, 255);
+    }
+    #imageTop > img{
+        position: relative;
+        left: -300px;
+        top: -350px;
+      
+        width: 1000px;
+    }  
+
+
+}

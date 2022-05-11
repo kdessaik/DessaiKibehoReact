@@ -140,7 +140,7 @@ left: 150px;
     font-size: 90%;
     font-weight: 500;
     }
-    #pages:hover{
+    #pages:hover,#pages2:hover,#pages3:hover{
         text-decoration: underline;
     }
     .navbar>#pages,#email1,#email1>img{

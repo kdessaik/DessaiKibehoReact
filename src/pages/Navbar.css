@@ -58,14 +58,27 @@ bottom: 60px;
 left: 300px;
 }
 
-#pages{
+#pages,#pages2,#pages3{
 text-decoration: none;
 color: black;
 font-size: 90%;
 font-weight: 500;
 }
-#pages:hover{
+
+#pages:hover,#pages2:hover,#pages3:hover{
     text-decoration: underline;
+}
+#pages2{
+    position: relative;
+        left: 20%;
+        bottom: 60px;
+        width: auto;
+}
+#pages3{
+    position: relative;
+        left: 25%;
+        bottom: 60px;
+        width: auto;
 }
 .navbar>#pages,#email1,#email1>img{
     

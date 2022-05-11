@@ -7,7 +7,7 @@ const Body = () => {
         <h2>
            I am a software developer, I enjoy creating and improving Websites.   
         </h2>
-        <button>Get in touch</button>
+        <button id='btn'>Get in touch</button>
         <div id='imageTop'>
             <img src={require('../../Image/Dessai2.png')}/>
         </div>

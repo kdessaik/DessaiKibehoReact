@@ -12,20 +12,14 @@ main>h2{
     line-height: 170%;
     color: black;
 }
-main>button{
+#btn{
     border-radius: 25px; 
     border: none;
     background-color: black;
     color: white;
     padding: 5%;
-    width: 140px;
-    
-    height: 7px;
-    padding-bottom: 10%;
-    padding-top: -7%;
-
 }
-main>button:hover{
+#btn:hover{
     background-color: rgb(166, 66, 16);
     color: rgb(255, 255, 255);
 }
